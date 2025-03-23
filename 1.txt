@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+  <Title>Raheel khan - Resume </title>
+  </head>
+    <body style = "font-family : Times New Roman ; text-align :left side;">
+      <div style = " background : white;">
+        <h1>Raheel khan </h1>
+        <p>Email : Raheelkhan256k@gmail.com </p>
+        <p><b>Instagram : </b> <a href = www.Instagram.com/raheelkhaanx">@raheelkhaanx </a></p>
+        <h2>About Me :</h2>
+        <p>Entrepreneur, content creator & living in Islamabad.</p>
+        <h2>Skills</h2>
+        <p>Video Editing, Digital Marketing, Web Development, Coding in C++ and Python(Oop) </p>
+        <h3>Experience</h3>
+        <p><b>Refined Koture(Online Store)</b> - Founder</p>
+        <p><b>Sells Managment physical Experience from Peshawar Marketing accadmey.</b> - Owner</p>
+        <h4>Education</h4>
+        <p>Bachelors in Software Engnering (In Progress)</p>
+        </div>
+        </body>
